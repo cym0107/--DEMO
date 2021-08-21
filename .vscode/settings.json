@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2a6d5981-64d2-483d-8893-173c5fb19b67/resourceGroups/defaultResource-1/providers/Microsoft.Web/sites/demorun",
+    "appService.deploySubpath": "build",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
